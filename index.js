@@ -1,5 +1,5 @@
 var a = 23
 var b = 15
 
-a + b 
+a + b
 console.log()
