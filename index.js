@@ -1,5 +1,10 @@
-var a = 23
-var b = 15
+var a, b
 
-a + b
-console.log()
+function beforeEach() {
+  var a = Math.floor(Math.random() * 1000)
+  var b = Math.floor(Math.random() * 1000)
+}
+
+function add(a,b){
+  return (a + b)
+}
