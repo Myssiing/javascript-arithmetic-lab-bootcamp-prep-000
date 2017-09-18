@@ -1,2 +1,2 @@
 add(a, b)
-console.log()
+console.log(add)
