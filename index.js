@@ -25,6 +25,6 @@ function inc(a) {
   return (a + 1)
 }
 
-function inc(b) {
+function dec(b) {
   return (b - 1)
 }
